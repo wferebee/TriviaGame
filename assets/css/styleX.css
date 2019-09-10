@@ -1,0 +1,48 @@
+
+body{
+background-image: url("1488_exo20180301-home.jpg"); 
+background-size: cover; /* Resize the background image to cover the entire container */
+color: rgb(9, 255, 0);   
+text-align: center;
+font-size: 16px;
+}
+
+
+
+#start{
+    opacity: .65;
+}
+
+h1{
+    position: relative;
+    bottom: 40px;
+    font-size: 60px;
+}
+
+section{
+    position: relative;
+    bottom: 75px;
+}
+#time{
+    position: relative;
+    bottom: 55px;
+}
+
+h5{
+    font-size: 16px;
+    color: rgb(241, 245, 0);
+}
+#resultsMessage{
+    font-size: 100px;
+}
+
+#correct, #incorrect, #unanswered{
+    font-size: 40px;
+  
+}
+
+.yo{
+    position: relative;
+    left: 35%;
+    bottom: 400px;
+}
